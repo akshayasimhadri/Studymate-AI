@@ -215,7 +215,7 @@ Never upload API keys publicly.
 * Advanced AI planning
 
 ---
-##Screenshots
+## Screenshots
 
 
 *Dashboard:
