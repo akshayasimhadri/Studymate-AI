@@ -216,6 +216,8 @@ Never upload API keys publicly.
 
 ---
 ##Screenshots
+
+
 *Dashboard:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d69a474-ea39-4872-a8a4-57ea57229b5d" />
 
